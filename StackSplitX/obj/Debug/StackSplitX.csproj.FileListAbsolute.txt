@@ -1,0 +1,6 @@
+D:\MyFiles\VScode\StackSplitX-master\StackSplitX\bin\Debug\StackSplitX.dll
+D:\MyFiles\VScode\StackSplitX-master\StackSplitX\bin\Debug\StackSplitX.pdb
+D:\MyFiles\VScode\StackSplitX-master\StackSplitX\obj\Debug\StackSplitX.csproj.AssemblyReference.cache
+D:\MyFiles\VScode\StackSplitX-master\StackSplitX\obj\Debug\StackSplitX.csproj.CoreCompileInputs.cache
+D:\MyFiles\VScode\StackSplitX-master\StackSplitX\obj\Debug\StackSplitX.dll
+D:\MyFiles\VScode\StackSplitX-master\StackSplitX\obj\Debug\StackSplitX.pdb

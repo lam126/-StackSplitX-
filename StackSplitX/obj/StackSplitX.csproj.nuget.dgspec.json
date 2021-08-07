@@ -1,0 +1,54 @@
+{
+  "format": 1,
+  "restore": {
+    "D:\\MyFiles\\VScode\\StackSplitX-master\\StackSplitX\\StackSplitX.csproj": {}
+  },
+  "projects": {
+    "D:\\MyFiles\\VScode\\StackSplitX-master\\StackSplitX\\StackSplitX.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\MyFiles\\VScode\\StackSplitX-master\\StackSplitX\\StackSplitX.csproj",
+        "projectName": "StackSplitX",
+        "projectPath": "D:\\MyFiles\\VScode\\StackSplitX-master\\StackSplitX\\StackSplitX.csproj",
+        "packagesPath": "C:\\Users\\Acer\\.nuget\\packages\\",
+        "outputPath": "D:\\MyFiles\\VScode\\StackSplitX-master\\StackSplitX\\obj\\",
+        "projectStyle": "PackageReference",
+        "skipContentFileWrite": true,
+        "fallbackFolders": [
+          "G:\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Acer\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net45"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net45": {
+            "projectReferences": {}
+          }
+        }
+      },
+      "frameworks": {
+        "net45": {}
+      },
+      "runtimes": {
+        "win": {
+          "#import": []
+        },
+        "win-x64": {
+          "#import": []
+        },
+        "win-x86": {
+          "#import": []
+        }
+      }
+    }
+  }
+}
